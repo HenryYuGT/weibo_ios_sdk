@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Weibo_SDK2"
+  s.name         = "Weibo_SDK_2"
   s.homepage     = "https://github.com/sinaweibosdk/weibo_ios_sdk"
   s.summary      = "WeiboSDK on iOS."
   s.description  = <<-DESC
